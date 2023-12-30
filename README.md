@@ -1,0 +1,3 @@
+# Turkish National Olympiads of Astronomy and Astrophysics Papers - TROAA
+## This repository consists of the translations of the TROAA papers from each year
+The translations have solely been made using the publicised papers on the [National Olympiads Website](https://bilimolimpiyatlari.tubitak.gov.tr/tr/gecmis-sinav-sorulari). The question material is the intellectual property of the TROAA Committee and the honourable tutors, all credit is respectfully theirs.
